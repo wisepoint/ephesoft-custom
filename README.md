@@ -1,2 +1,2 @@
-# ephesoft-custom
-Ephesoft Customizations
+# ephesoft-script-helper
+WisePoint Developed Custom Library for Ephesoft script development 
